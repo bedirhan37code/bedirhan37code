@@ -1,4 +1,4 @@
-                                                                                                                        - 👋 Hi I'm Bedirhan Koca 
+                                                             - 👋 Hi I'm Bedirhan Koca 
 🔭 I am a Software Developer interested in Frontend and Mobile development.
 
 🤝 I am someone who loves to work very much and is always open to learning new things and knows team spirit.
